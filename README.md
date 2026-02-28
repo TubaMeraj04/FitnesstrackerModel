@@ -1,4 +1,9 @@
 🏋️ Fitness Tracker — Kotlin Data Model Project
+## Project Structure
+Model/
+- FitnessTrackerModel.kt → Contains data model and object-oriented design
+Functional/
+- FitnessHigherOrderDemo.kt → Demonstrates lambdas and higher-order functions
 📖 Overview
 
 This project is a console-based Kotlin application that models a Workout session for a Fitness Tracker app. It demonstrates key object-oriented programming concepts including:
